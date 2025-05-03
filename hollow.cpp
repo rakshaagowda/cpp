@@ -1,3 +1,4 @@
+//hollow rectangle
 #include <iostream>
 using namespace std;
 int main()
