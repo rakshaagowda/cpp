@@ -1,4 +1,4 @@
-//hollow rectangle
+//hollow rectangle pattern
 #include <iostream>
 using namespace std;
 int main()
